@@ -1,0 +1,11 @@
+{
+  "name": "gobarber-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zEduardofaria/gobarber-api.git",
+  "author": "Eduardo Faria <z.eduardofaria@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
